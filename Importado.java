@@ -1,4 +1,4 @@
-package com.mycompany.ejercicio2herencia; // Asegúrate de que el paquete sea correcto
+package com.mycompany.ejercicio2herencia; // Verificar que el paquete sea correcto
 
 public class Importado extends Articulo {
     private int anioImportacion;
