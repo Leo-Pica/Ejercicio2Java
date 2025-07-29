@@ -1,4 +1,4 @@
-package com.mycompany.ejercicio2herencia; // Asegúrate de que el paquete sea correcto
+package com.mycompany.ejercicio2herencia; // Varificar que el paquete sea correcto
 
 public class Prueba {
     public static void main(String[] args) {
