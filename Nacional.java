@@ -1,4 +1,4 @@
-package com.mycompany.ejercicio2herencia; // Asegúrate de que el paquete sea correcto
+package com.mycompany.ejercicio2herencia; // Hay que verificar que el paquete sea correcto
 
 public class Nacional extends Articulo {
     private String departamento;
